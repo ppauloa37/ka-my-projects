@@ -1,4 +1,4 @@
-    <script>
+
         var tela = document.getElementById("painter")
         var cnsole = document.getElementById("console")
         var cnsoletext = "TextDebug";
